@@ -1,0 +1,10 @@
+Scripts
+Lib
+opencv
+test
+share
+**/*.dot
+**/*.bin
+**/*.onnx
+**/*.xml
+pyvenv.cfg

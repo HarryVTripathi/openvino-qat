@@ -1,0 +1,13 @@
+Scripts
+Lib
+etc
+test
+share
+**/*.jpg
+**/*.png
+**/*.dot
+**/*.bin
+**/*.onnx
+**/*.xml
+.ipynb_checkpoints
+pyvenv.cfg
